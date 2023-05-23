@@ -6,6 +6,7 @@ Hosted Link- https://crud-operationz.netlify.app/
 ## Features
 
 - User authentication and login functionality.
+- The app uses the bcrypt package and JSON Web Tokens(JWT) for authentication and authorization in the backend side and Formik and Yup in the Frontend.
 - Main dashboard displaying tables for students and classrooms.
 - Ability to add, edit, and delete rows in the tables.
 - Dropdown list to assign students to classrooms.
